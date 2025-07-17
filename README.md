@@ -37,3 +37,17 @@ These issues were frustrating, especially when I couldn't immediately figure out
 After working through all the issues, I finally got the app running smoothly. Each button now performs the intended action correctly, and the UI behaves well on different screen sizes. It may be a small project, but for me, it was a big step forward in learning **real-world Android development**.
 
 
+
+![Image](https://github.com/user-attachments/assets/a84bb164-4e8e-4a6f-a126-00495314c452)
+
+
+![Image](https://github.com/user-attachments/assets/55810f56-ce8f-4bc5-8899-c49da08c8935)
+
+
+![Image](https://github.com/user-attachments/assets/b2baaebb-cb7d-483a-9a1e-da922455ac63)
+
+
+![Image](https://github.com/user-attachments/assets/dc177bd4-4b47-4723-a850-f9216fb98e89)
+
+
+
